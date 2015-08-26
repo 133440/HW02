@@ -1,0 +1,9 @@
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\bin\Debug\Pong_clone.exe.config
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\bin\Debug\Pong_clone.exe
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\bin\Debug\Pong_clone.pdb
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\obj\Debug\Pong_clone.csprojResolveAssemblyReference.cache
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\obj\Debug\Pong_clone.Form1.resources
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\obj\Debug\Pong_clone.Properties.Resources.resources
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\obj\Debug\Pong_clone.csproj.GenerateResource.Cache
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\obj\Debug\Pong_clone.exe
+C:\Users\sef.remollo\Desktop\CS179.14A\Pong_clone\Pong_clone\obj\Debug\Pong_clone.pdb
